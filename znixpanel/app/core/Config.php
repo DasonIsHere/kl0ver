@@ -5,10 +5,10 @@ define('SITE_ROOT', dirname(__FILE__, 3)); // DO NOT CHANGE
 define('SITE_URL', 'http://'.$_SERVER['SERVER_NAME']); // DO NOT CHANGE
 
 // Website Name
-define('SITE_NAME', 'znix.cc');
+define('SITE_NAME', 'kl0ver.xyz');
 
 // Website Description
-define('SITE_DESC', 'CS:GO Private Cheat | Invite Only');
+define('SITE_DESC', 'cheat time');
 
 /**
  * Folder name should be defined starting with the "/" (slash)
