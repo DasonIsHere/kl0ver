@@ -5,7 +5,35 @@
   @font-face {
     font-family: derk;
     src: url(derk.otf);
+	
   }
+  @font-face {
+    font-family: vamp;
+    src: url(Vampires.otf);
+	
+  }
+  @font-face {
+    font-family: BTTF;
+    src: url(BTTF.ttf);
+	
+  }
+  @font-face {
+    font-family: vanhell;
+    src: url(vanhellsing.ttf);
+	
+  }
+  @font-face {
+    font-family: Blackcraft;
+    src: url(Blackcraft.ttf);
+	
+  }
+  @font-face {
+    font-family: datatrash;
+    src: url(data_trash.otf);
+	
+  }
+  
+  
     html {
     font-family: mono;
   }
