@@ -110,7 +110,9 @@
     display: flex;
   }
   .text-content a {
-	text-decoration: none;  
+	text-decoration: none !important;
+	background-image: none !important;
+	border: none !important;
     padding-top: 30px;
     padding-right: 10px;
     padding-bottom: 31px;
@@ -120,6 +122,7 @@
     line-height: 0.0;
     color: rgb(0, 0, 0);
     display: flex;
+	text-align: center;  
     z-index: 2;
   }
   .outer-1 {
