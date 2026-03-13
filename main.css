@@ -110,6 +110,7 @@
     display: flex;
   }
   .text-content a {
+	text-decoration: none;  
     padding-top: 30px;
     padding-right: 10px;
     padding-bottom: 31px;
