@@ -121,8 +121,8 @@
     font-weight: 500;
     line-height: 0.0;
     color: rgb(0, 0, 0);
-    display: block;
-	text-align: center;  
+    display: flex;
+	text-align: center !important;  
     z-index: 2;
   }
   .outer-1 {
